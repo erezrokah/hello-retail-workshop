@@ -3,7 +3,7 @@
 If not already installed, we have provided a script in the workshop project root:
 
 ```sh
-./setup-aws-cli.js
+./setup-aws-cli.sh 
 ```
 
 Otherwise, please follow the [guidance from AWS to install the CLI](http://docs.aws.amazon.com/cli/latest/userguide/installing.html).
