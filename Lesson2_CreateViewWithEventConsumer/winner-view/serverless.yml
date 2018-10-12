@@ -8,8 +8,7 @@ custom:
 
 provider:
   name: aws
-  deploymentBucket: ${self:custom.private.deploymentBucket}
-  runtime: nodejs4.3
+  runtime: nodejs8.10
   profile: ${self:custom.private.profile}
   region: ${self:custom.private.region}
 
